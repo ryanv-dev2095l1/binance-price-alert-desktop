@@ -38,4 +38,4 @@ python alert.py --config targets.txt
 
 When an alert triggers, the Windows notification includes a direct link. Clicking it opens the pair's trading page in your default browser.
 
-<!-- checked: 2026-09-23 -->
+<!-- checked: 2026-09-24 -->
